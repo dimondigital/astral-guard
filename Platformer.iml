@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Platformer">
+    <configurations>
+      <configuration name="Platformer" pure-as="true" main-class="Platformer" output-file="Platformer.swf" output-folder="$MODULE_DIR$/../../Platformer/out/production/Platformer">
+        <dependencies target-player="12.0">
+          <entries>
+            <entry library-id="002d97b4-d142-4601-9250-6874b44f7fe1">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="6eb404f2-e05c-4156-9dec-5723b18d9f4b">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="515ebf8c-8974-4340-83f1-5ebcb2ba17b6">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="cee239cc-80d7-4322-9231-f31f09889e48">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="53c5a2d8-cfa6-4976-9fe6-71da54a2904c">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex sdk 4.12" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/graphics" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/custom" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex sdk 4.12" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="docs" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="002d97b4-d142-4601-9250-6874b44f7fe1" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/src/graphics" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/src/graphics" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="6eb404f2-e05c-4156-9dec-5723b18d9f4b" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../!!!!!!Adobe/playerglobal12_0.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="515ebf8c-8974-4340-83f1-5ebcb2ba17b6" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/src" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="cee239cc-80d7-4322-9231-f31f09889e48" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../!!!!!!Adobe/Adobe Flash CS6/!Frameworks/greensock-as3/greensock-as3/greensock.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="53c5a2d8-cfa6-4976-9fe6-71da54a2904c" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../!!!!!!Adobe/Adobe Flash CS6/!Frameworks/greensock-as3/greensock-as3" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../../!!!!!!Adobe/Adobe Flash CS6/!Frameworks/greensock-as3/greensock-as3/docs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../!!!!!!Adobe/Adobe Flash CS6/!Frameworks/greensock-as3/greensock-as3" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../!!!!!!Adobe/Adobe Flash CS6/!Frameworks/greensock-as3/greensock-as3" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
